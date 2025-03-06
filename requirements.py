@@ -1,0 +1,3 @@
+﻿aiogram
+apscheduler
+dateparser
